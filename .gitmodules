@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/Malfurionzz/grad_test.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/Malfurionzz/learning-cxx.git
